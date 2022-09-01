@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod a+x .
+chmod u=7 g=5 o=5 .
