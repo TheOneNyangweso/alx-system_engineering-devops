@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+## Script pings an IP address passed as an argument
+
+# Check if sring arg is empty and throw error
+if [ -z "$1" ]; then
+	echo "Usage: 5-is_the_host_on_the_network {IP_ADDRESS}"
+	exit 1
+fi
+
+# if sring arg is passed
+ping -c 5 $1
