@@ -1,0 +1,15 @@
+#!/bin/bash
+
+# Get the list of active network interfaces
+interfaces=$(ifconfig | grep -oE '^[a-zA-Z0-9]+')
+
+# Loop through each interface and display its IPv4 addresses
+for interface in $interfaces; do
+    ipv4_addresses=$(ifconfig $interface | grep -oE 'inet [0-9]+\.[0-9]+\.[0-9]+\.[0-9]+' | awk '{print $2}')
+    if [ ! -z "$ipv4_addresses" ]; then
+        echo "IPv4 addresses for interface $interface:"
+        echo "$ipv4_addresses"
+        echo
+    fi
+done
+
