@@ -1,9 +1,116 @@
-<mxfile host="app.diagrams.net" modified="2024-06-05T14:47:43.632Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="24.4.14" etag="gELXkuXNnDYiuqQHlEqd" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-05T19:03:04.075Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="E_3jH5llqELe7w92ecIN" version="24.4.14" type="github">
   <diagram name="Page-1" id="LxcEkJXeemVzac14Wpr5">
-    <mxGraphModel>
+    <mxGraphModel dx="1510" dy="391" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="h-j9t63NOMBpBHXlyPHI-53" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=16;" vertex="1" parent="1">
+          <mxGeometry x="570" y="50" width="490" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="h-j9t63NOMBpBHXlyPHI-1" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.laptop;" vertex="1" parent="1">
+          <mxGeometry x="120" y="130" width="200" height="110" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;www.foobar.com&lt;/span&gt;" link="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;www.foobar.com&lt;/span&gt;" id="h-j9t63NOMBpBHXlyPHI-11">
+          <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.web_browser;" vertex="1" parent="1">
+            <mxGeometry x="165" y="140" width="110" height="78.1" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="h-j9t63NOMBpBHXlyPHI-12" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#005F4B;strokeColor=none;sketch=0;pointerEvents=1;shadow=0;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="335" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h-j9t63NOMBpBHXlyPHI-14" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.063;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="h-j9t63NOMBpBHXlyPHI-12" target="h-j9t63NOMBpBHXlyPHI-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="330" as="sourcePoint" />
+            <mxPoint x="240" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h-j9t63NOMBpBHXlyPHI-15" value="DNS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h-j9t63NOMBpBHXlyPHI-18" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;0-simple_web_stack&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="40" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h-j9t63NOMBpBHXlyPHI-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="158" as="sourcePoint" />
+            <mxPoint x="520" y="158" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h-j9t63NOMBpBHXlyPHI-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="200" as="sourcePoint" />
+            <mxPoint x="320" y="199.99999999999997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h-j9t63NOMBpBHXlyPHI-26" value="&lt;b&gt;3. Browser sends request&lt;/b&gt;&lt;div&gt;&lt;b&gt;to server with IP 8.8.8.8&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;by using HTTP&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="329" y="98" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h-j9t63NOMBpBHXlyPHI-27" value="&lt;b&gt;&amp;nbsp;2. Step 2(optional) : If IP isn&#39;t cached in&lt;/b&gt;&lt;div&gt;&lt;b&gt;browser or OS, DNS comes in and&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;performs a series of steps before&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;returning IP 8.8.8.8&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;www in www.foobar.com&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;is an example of an A record&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-55" y="252" width="250" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="h-j9t63NOMBpBHXlyPHI-28" value="&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;4. Browser receives response&lt;/b&gt;&lt;div&gt;&lt;b&gt;(mostly a web page)&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;from server with IP 8.8.8.8&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;by using HTTP&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;and displays it.&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="319" y="190" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="h-j9t63NOMBpBHXlyPHI-29" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.web_server" vertex="1" parent="1">
+          <mxGeometry x="640" y="160" width="68.4" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="h-j9t63NOMBpBHXlyPHI-32" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.application_server2" vertex="1" parent="1">
+          <mxGeometry x="786.3" y="160" width="77.4" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="h-j9t63NOMBpBHXlyPHI-33" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_MySQL_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="940" y="158" width="70.5" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="h-j9t63NOMBpBHXlyPHI-34" value="&lt;b&gt;Nginx&lt;/b&gt;&lt;div&gt;&lt;b&gt;web server&lt;/b&gt; - stores and delivers web pages&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h-j9t63NOMBpBHXlyPHI-36" value="&lt;b&gt;Application&lt;/b&gt;&lt;div&gt;&lt;b&gt;server - &lt;/b&gt;provides business logic and dynamic content&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="745" y="120" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h-j9t63NOMBpBHXlyPHI-37" value="&lt;b&gt;Database&lt;/b&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp;server (MySQL)&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="927.63" y="120" width="95.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h-j9t63NOMBpBHXlyPHI-38" value="Static files e.g&lt;div&gt;HTML, CSS files&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="320" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="h-j9t63NOMBpBHXlyPHI-40" value="code base with business logic e.t.c. e.g Python files" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="767.5" y="320" width="112.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="h-j9t63NOMBpBHXlyPHI-45" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="h-j9t63NOMBpBHXlyPHI-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="352" as="sourcePoint" />
+            <mxPoint x="660" y="252" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h-j9t63NOMBpBHXlyPHI-47" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="820" y="320" as="sourcePoint" />
+            <mxPoint x="820" y="252" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h-j9t63NOMBpBHXlyPHI-51" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="210" as="sourcePoint" />
+            <mxPoint x="780" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h-j9t63NOMBpBHXlyPHI-54" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="870" y="210" as="sourcePoint" />
+            <mxPoint x="930" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h-j9t63NOMBpBHXlyPHI-55" value="&lt;b&gt;1. user types domain name i.e&lt;/b&gt;&lt;div&gt;&lt;b&gt;www.foobar.com. Domain name&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;is preferred for its human&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;readbility format hence&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;easier to remeber than IPs&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-55" y="134.05" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="h-j9t63NOMBpBHXlyPHI-57" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font size=&quot;3&quot; style=&quot;&quot;&gt;&lt;u style=&quot;&quot;&gt;Server Node-0&lt;/u&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="746.25" y="58" width="137.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h-j9t63NOMBpBHXlyPHI-60" value="&lt;b&gt;Database&lt;/b&gt;&lt;div&gt;&lt;b&gt;server - &lt;/b&gt;manages,stores, retreives and manipulates data efficiently&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="900" y="270" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h-j9t63NOMBpBHXlyPHI-64" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;u&gt;Issues with one server web infrastructure&lt;/u&gt;&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;1. SPOF (Single Point of Failure) - If any of the single server becomes dysfunctional the whole system fails.&lt;/p&gt;&lt;p&gt;2. The system becomes totally unavaible during planned or unplanned downtimes&lt;/p&gt;&lt;p&gt;3. Cannot scale up or down when incoming traffic is too much or too low respectively since there&#39;s only one node.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="400" width="460" height="150" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
