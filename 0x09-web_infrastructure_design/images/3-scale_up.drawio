@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-06-07T08:54:18.380Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="Yg3E0O7ICD99Op_R8T8h" version="24.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-07T09:00:00.919Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="1a4BTtoAMJquN2mRsjOx" version="24.5.1" type="github">
   <diagram name="Page-1" id="gj4vtqHnSgQMsttUuMiE">
-    <mxGraphModel dx="2311" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2240" dy="680" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="QlBO5GroCETsz7A_4THD-129" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="20" width="980" height="670" as="geometry" />
+          <mxGeometry x="318" y="20" width="972" height="670" as="geometry" />
         </mxCell>
         <mxCell id="QlBO5GroCETsz7A_4THD-117" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="338.5" y="133.63" width="100" height="499.75" as="geometry" />
@@ -78,7 +78,7 @@
         <mxCell id="QlBO5GroCETsz7A_4THD-41" value="&lt;b&gt;Slave&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1099.99" y="588.1" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QlBO5GroCETsz7A_4THD-43" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.158;entryY=0.46;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QlBO5GroCETsz7A_4THD-117" target="QlBO5GroCETsz7A_4THD-50">
+        <mxCell id="QlBO5GroCETsz7A_4THD-43" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=0.998;exitY=0.544;exitDx=0;exitDy=0;entryX=-0.158;entryY=0.46;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="QlBO5GroCETsz7A_4THD-117" target="QlBO5GroCETsz7A_4THD-50">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="430.00000000000034" y="359.94" as="sourcePoint" />
             <mxPoint x="560" y="180" as="targetPoint" />
@@ -108,14 +108,11 @@
         <mxCell id="QlBO5GroCETsz7A_4THD-77" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_MySQL_Server.svg;" vertex="1" parent="1">
           <mxGeometry x="1012.3700000000001" y="494.1" width="70.5" height="94" as="geometry" />
         </mxCell>
-        <mxCell id="QlBO5GroCETsz7A_4THD-78" value="&lt;b&gt;Application&lt;/b&gt;&lt;div&gt;&lt;b&gt;server - &lt;/b&gt;provides business logic and dynamic content&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="728.6500000000001" y="471" width="160" height="30" as="geometry" />
+        <mxCell id="QlBO5GroCETsz7A_4THD-78" value="&lt;b&gt;Application&lt;/b&gt;&lt;div&gt;&lt;b&gt;servers - &lt;/b&gt;provides business logic and dynamic content&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="655.0000000000001" y="466" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QlBO5GroCETsz7A_4THD-79" value="&lt;b&gt;Database&lt;/b&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp;server (MySQL)&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1000.0000000000001" y="456.1" width="95.25" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="QlBO5GroCETsz7A_4THD-80" value="code base with business logic e.t.c. e.g Python files" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="687.4000000000001" y="601" width="112.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QlBO5GroCETsz7A_4THD-81" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -135,14 +132,11 @@
         <mxCell id="QlBO5GroCETsz7A_4THD-86" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.web_server" vertex="1" parent="1">
           <mxGeometry x="637.4" y="184.5" width="68.4" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="QlBO5GroCETsz7A_4THD-87" value="&lt;b&gt;Nginx&lt;/b&gt;&lt;div&gt;&lt;b&gt;web server&lt;/b&gt;&amp;nbsp;- stores and delivers web pages&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="587.4" y="144.5" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="QlBO5GroCETsz7A_4THD-88" value="&lt;b&gt;Nginx&lt;/b&gt;&lt;div&gt;&lt;b&gt;server&amp;nbsp;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="728.65" y="144.5" width="160" height="30" as="geometry" />
+        <mxCell id="QlBO5GroCETsz7A_4THD-87" value="&lt;b&gt;Nginx&lt;/b&gt;&lt;div&gt;&lt;b&gt;web servers&lt;/b&gt;&amp;nbsp;- stores and delivers web pages&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="143" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QlBO5GroCETsz7A_4THD-89" value="Shared Static files e.g&lt;div&gt;HTML, CSS files&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="669.4" y="282" width="120" height="50" as="geometry" />
+          <mxGeometry x="670" y="280" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QlBO5GroCETsz7A_4THD-90" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -242,6 +236,24 @@
         </mxCell>
         <mxCell id="QlBO5GroCETsz7A_4THD-130" value="&lt;b&gt;This design allows scaling up and down&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;effectively, while&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;handling possible SPOFs&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-15" y="94.5" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QlBO5GroCETsz7A_4THD-131" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.129;entryY=1.062;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QlBO5GroCETsz7A_4THD-80" target="QlBO5GroCETsz7A_4THD-85">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="633" as="sourcePoint" />
+            <mxPoint x="657" y="599" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QlBO5GroCETsz7A_4THD-133" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.746;entryY=0.969;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QlBO5GroCETsz7A_4THD-80" target="QlBO5GroCETsz7A_4THD-76">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="806" y="637" as="sourcePoint" />
+            <mxPoint x="830" y="605" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QlBO5GroCETsz7A_4THD-80" value="shared code base with business logic e.t.c. e.g Python files" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="675" y="599" width="126.6" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QlBO5GroCETsz7A_4THD-134" value="&lt;b&gt;@TheOneNyangweso&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5" y="650" width="141" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
